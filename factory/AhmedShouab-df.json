@@ -1,0 +1,9 @@
+{
+	"name": "AhmedShouab-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a9d6e43b-1b2f-4978-8772-80152999c350",
+		"tenantId": "b084031b-cdb1-422e-a76a-a6510cdb17f8"
+	}
+}
